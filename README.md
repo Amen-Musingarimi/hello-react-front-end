@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -25,8 +24,7 @@
 
 ### Backend Api repository
 
-- <a href="https://github.com/zewdu444/hello-rails-back-end">Rails Link</a>
-
+- <a href="https://github.com/Amen-Musingarimi/hello-rails-back-end">Rails Link</a>
 
 ## 🛠 Built With <a name="built-with"> </a>
 
@@ -40,7 +38,6 @@
 
  <li>Display greeting message</li>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -49,8 +46,7 @@ to run on your localhost clone the project to local folder
 
 ### Setup
 
-
-> - git clone https://github.com/zewdu444/hello-react-front-end.git
+> - git clone https://github.com/Amen-Musingarimi/hello-react-front-end
 > - cd hello-react-front-end
 > - npm install
 
@@ -67,12 +63,13 @@ To run the project, execute the following command:
 first run the rails API server by using the following command:
 
 ```sh
- git clone https://github.com/zewdu444/hello-rails-back-end.git
+ git clone https://github.com/Amen-Musingarimi/hello-rails-back-end
  cd hello-react-back-end
  bundle install
  rails s
  http://127.0.0.1:3000/api/v1/greetings
 ```
+
 To run front-end use the following command:
 
 ```sh
@@ -81,25 +78,22 @@ To run front-end use the following command:
  http://localhost:3001/ #opened automatically
 ```
 
-
 ## 👥 Authors <a name="authors"></a>
 
-👤 **zewdu erkyhun**
+👤 **AmenMusingarimi**
 
-- GitHub: [@zewdu444](https://github.com/zewdu444)
-- Twitter: [@zewdu444](https://twitter.com/zewdu444)
-- LinkedIn: [zewdu-anley](https://www.linkedin.com/in/zewdu-anley/)
-
+- GitHub: [@githubhandle](https://github.com/Amen-Musingarimi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/atmusingarimi/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->add styling to the project
+> add styling to the project
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zewdu444/space_travelers/issues).
+Feel free to check the [issues page](https://github.com/Amen-Musingarimi/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
